@@ -145,7 +145,7 @@ Main Repl
 > <h6 align='center'>আপনার সেটিংস কনফিগার করার পরে, অনুগ্রহ করে এই REPL-এর মধ্যে appstate.json ফাইলে আপনার Facebook AppState পেস্ট করুন। একবার আপনি এটি সম্পন্ন করার পরে, অবিলম্বে REPL চালান৷</h6>৷
 </details>
 
-> <h6>Updated on: Nov 22, 2023<br>Creation Date: Nov 22, 2023</h6></h6></><h6>Modifier: Joshua Apostol<h6>
+> <h6>Updated on: Dec 8, 2024<br>Creation Date: Nov 22, 2023</h6></h6></><h6>Modifier: Joshua Apostol<h6>
 Credits: Yan maglinte<br>
 <img src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg" width="200" />
 
